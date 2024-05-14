@@ -52,6 +52,7 @@ git clone https://github.com/UrfanAlvany/AI-FOOBAR-CHALLANGE-FRONTEND.git
 - Register or log in using the Clerk authentication.
 - Interact with the various features and UI components.
 - Select OpenAi from navigation
+- Please note: First time rendering the OpenAi page can be take some seconds...
 
 
 
