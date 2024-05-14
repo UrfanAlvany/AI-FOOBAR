@@ -33,6 +33,7 @@ Ensure you have the following installed on your system:
 ```sh
 git clone https://github.com/UrfanAlvany/AI-FOOBAR-CHALLANGE-FRONTEND.git
 ```
+```cd AI-FOOBAR-CHALLANGE-FRONTEND```
 
 
 ### Install Dependencies
