@@ -1,6 +1,6 @@
 # FOOBAR AI  CHALLANGE Frontend
 
-This is the frontend for the FOOBAR AI application, built using Next.js, Tailwind CSS, and Clerk for authentication. This guide will help you set up and run the frontend project.
+This is the frontend for the FOOBAR AI application, built using Next.js, Tailwind CSS, ShadCn UI,Chakra UI and Clerk for authentication. This guide will help you set up and run the frontend project.
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@ This is the frontend for the FOOBAR AI application, built using Next.js, Tailwin
 
 ## Features
 
-- Modern UI built with Next.js and Tailwind CSS, ShadCn,ChakraProvider.
+- Modern UI built with Next.js and Tailwind CSS, ShadCn UI,Chakra UI.
 - Authentication with Clerk.
 - Interactive UI components for a seamless user experience.
 - Rendering code snippet with highlight.js
