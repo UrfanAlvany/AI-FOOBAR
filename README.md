@@ -7,11 +7,7 @@ This is the frontend for the FOOBAR AI application, built using Next.js, Tailwin
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Configuration](#configuration)
 - [Authentication](#authentication)
-- [UI Components](#ui-components)
-- [Contributing](#contributing)
-- [License](#license)
 .
 
 ## Features
